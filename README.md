@@ -71,7 +71,8 @@ To this end, **the third book** is carefully crafted to meet all the requirement
 ### The Story of Math 
 
 1. [✓] Philosophy of math  
-2. [✓] Area of mathematics  
+2. [✓] Area of mathematics
+
 2.1. ➢ Geometry
 
 2.2. ➢ Algebra
@@ -122,24 +123,42 @@ To this end, **the third book** is carefully crafted to meet all the requirement
 
 1. [✓] Introduction to RCC
 2. [✓] Introdution to Regression
+
 2.1. ➢ Simple Linear Regression
+
 2.2. ➢ Multiple Linear Regression
+
 2.3. ➢ Nonlinear Regression
+
 2.4. ➢ Regulization- LASO & RIDGE
+
 3. [✓] Introduction to Classification
+
 3.1. ➢ Logistic Regression
+
 3.2. ➢ K-nearst Neighbor
+
 3.3. ➢ Decision Tree
+
 3.4. ➢ Support Vector Machine
+
 3.5. ➢ Naive Bayse
+
 3.6. ➢ Deep Learning- Introduction
+
 3.7. ➢ Deep Learning- Neural Network Framework
+
 3.8. ➢ Deep Learning- RCC Framework
+
 3.9. ➢ Deep Learning- Reinforcement Learning Framework
+
 3.10. ➢ Deep Learning- RNN Framework
+
 4. [✓] Introduction to Clustering
 5. [✓] Feature Engineering intro
+
 5.1. ➢ Data Preparation
+
 5.2. ➢ Feature Reduction
 
 
