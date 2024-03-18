@@ -73,11 +73,17 @@ To this end, **the third book** is carefully crafted to meet all the requirement
 1. [✓] Philosophy of math  
 2. [✓] Area of mathematics  
 2.1. ➢ Geometry
+
 2.2. ➢ Algebra
+
 2.3. ➢ Calculus & Analysis
+
 2.4. ➢ Discrete Mathematics
+
 2.5. ➢ Math Logic
+
 2.6. ➢ Decision Science 
+
 2.7. ➢ Computational Math
 
 ### You must know 
