@@ -14,6 +14,8 @@
 > 1. you can have an author introduction to this book on [Welcome, by the author, to the Third Book- Prediction from the Start to The End](https://youtu.be/yERHOW5UfvU) 
 > 2. You can have a video presentation to this book on [Prediction from The Start to The End- Chapters Review](https://youtu.be/g84VMCxVoPs)
 > 3. you can have a video screencast on the all the chapters' contents on [Screencasts from Prediction from the Start to The End Chapters- Book Three](https://youtu.be/mkkH47ZImbw)
+> 4. you can access the code of LAB-[Part-ONE](https://github.com/dahmansphi/prediction_from_start_to_end/blob/main/lab/part_one/book_3_LAB_code_part_one.ipynb)
+> 5. you can access the code of LAB-[Part-TWO](https://github.com/dahmansphi/prediction_from_start_to_end/blob/main/lab/part_two/book_3_LAB_code_part_two.ipynb)
 
 
 ## Author's Words
