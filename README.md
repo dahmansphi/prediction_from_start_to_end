@@ -201,7 +201,7 @@ This book is for anyone with the interest in building, creating and producing a 
 
 you can have access to the recorded lessons of this book from these outlets:
 1. [outlet_1 + Discount](https://dahmansphi.com/prediction-s2e/). 
-2. [outlet_2](https://www.udemy.com/course/prediction-s2e)
+2. [outlet_2](https://www.udemy.com/course/prediction-s2e/?referralCode=EC40080CDAEB20167DFA)
 
 # The digital copy 
 you can have access to the ppt digital copy in pdf format from [digital ppt book](/assets/prediction_s2e_final.pdf) 
